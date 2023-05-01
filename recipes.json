@@ -1,0 +1,282 @@
+[
+    {
+        "chefId": "c1",
+        "name": "John Doe",
+        "recipes": [
+            {
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "prosciutto",
+                    "egg yolk"
+                ],
+                "method": "1. Season beef fillet and sear in a hot pan. 2. Brush with mustard and wrap with mushrooms and prosciutto. 3. Roll out puff pastry and wrap beef. 4. Brush with egg yolk and bake in oven. 5. Rest and serve.",
+                "rating": 4.9,
+                "favorite": false
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground beef",
+                    "carrots",
+                    "onion",
+                    "peas",
+                    "mashed potatoes"
+                ],
+                "method": "1. Brown ground beef in a large skillet. 2. Add diced carrots and onions and cook until tender. 3. Add peas and beef broth and simmer until liquid is reduced. 4. Spread mashed potatoes over the top and bake in oven. 5. Serve hot.",
+                "rating": 4.6,
+                "favorite": false
+            },
+            {
+                "name": "Crab Cakes",
+                "ingredients": [
+                    "crab meat",
+                    "breadcrumbs",
+                    "mayonnaise",
+                    "Dijon mustard",
+                    "parsley"
+                ],
+                "method": "1. Mix crab meat, breadcrumbs, mayonnaise, mustard, and parsley in a bowl. 2. Shape mixture into patties. 3. Heat oil in a skillet and fry until golden brown. 4. Serve with lemon wedges and tartar sauce.",
+                "rating": 4.3,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "chefId": "c2",
+        "name": "Jane Smith",
+        "recipes": [
+            {
+                "name": "Grilled Salmon",
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "lemon juice",
+                    "garlic",
+                    "dill"
+                ],
+                "method": "1. Preheat grill to medium-high heat. 2. Brush salmon with olive oil and sprinkle with salt and pepper. 3. Grill salmon for 4-5 minutes per side. 4. In a small bowl, mix together lemon juice, garlic, and dill. 5. Drizzle over grilled salmon and serve.",
+                "rating": 4.9,
+                "favorite": true
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "parmesan cheese"
+                ],
+                "method": "1. Cook pasta according to package directions. 2. In a food processor, pulse together basil, garlic, pine nuts, and parmesan cheese until finely chopped. 3. Slowly add olive oil while pulsing until a smooth pesto sauce forms. 4. Drain pasta and toss with pesto sauce. 5. Serve with additional parmesan cheese and black pepper.",
+                "rating": 4.6,
+                "favorite": false
+            },
+            {
+                "name": "Beef Tacos",
+                "ingredients": [
+                    "ground beef",
+                    "taco seasoning",
+                    "taco shells",
+                    "lettuce",
+                    "tomato"
+                ],
+                "method": "1. Cook ground beef in a large skillet over medium-high heat. 2. Add taco seasoning and cook until beef is browned. 3. Warm taco shells in the oven. 4. Fill each taco shell with beef, lettuce, and tomato. 5. Serve with sour cream and salsa.",
+                "rating": 4.4,
+                "favorite": true
+            }
+        ]
+    },
+    {
+        "chefId": "c3",
+        "name": "Bob Johnson",
+        "recipes": [
+            {
+                "name": "Roasted Brussels Sprouts",
+                "ingredients": [
+                    "brussels sprouts",
+                    "olive oil",
+                    "salt",
+                    "black pepper",
+                    "balsamic vinegar"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Trim and halve brussels sprouts. 3. Toss brussels sprouts with olive oil, salt, and black pepper. 4. Roast in the oven for 20-25 minutes, or until tender and caramelized. 5. Drizzle with balsamic vinegar and serve.",
+                "rating": 4.6,
+                "favorite": false
+            },
+            {
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "chicken breasts",
+                    "breadcrumbs",
+                    "parmesan cheese",
+                    "marinara sauce",
+                    "mozzarella cheese"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Pound chicken breasts to an even thickness. 3. Coat chicken in breadcrumbs mixed with grated parmesan cheese. 4. Brown chicken in a large skillet over medium-high heat. 5. Top chicken with marinara sauce and mozzarella cheese. 6. Bake in the oven for 10-15 minutes, or until cheese is melted and bubbly. 7. Serve with pasta.",
+                "rating": 4.9,
+                "favorite": false
+            },
+            {
+                "name": "Vegetable Curry",
+                "ingredients": [
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "carrots",
+                    "potatoes",
+                    "cauliflower",
+                    "chickpeas",
+                    "curry powder",
+                    "coconut milk"
+                ],
+                "method": "1. Heat oil in a large pot over medium heat. 2. Add onion, garlic, and ginger and cook until softened. 3. Add diced carrots, potatoes, and cauliflower and cook until slightly softened. 4. Stir in chickpeas and curry powder. 5. Add coconut milk and bring to a simmer. 6. Simmer until vegetables are tender and sauce is thickened. 7. Serve with rice or naan bread.",
+                "rating": 4.3,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "chefId": "c4",
+        "name": "Sarah Lee",
+        "recipes": [
+            {
+                "name": "Beet and Goat Cheese Salad",
+                "ingredients": [
+                    "beets",
+                    "goat cheese",
+                    "arugula",
+                    "walnuts",
+                    "balsamic vinaigrette"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Peel and dice beets. 3. Roast beets in the oven for 20-25 minutes, or until tender. 4. Toast walnuts in a dry skillet over medium heat. 5. Assemble salad with arugula, roasted beets, crumbled goat cheese, and toasted walnuts. 6. Drizzle with balsamic vinaigrette and serve.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil pesto",
+                    "cherry tomatoes",
+                    "parmesan cheese"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Pound chicken breasts to an even thickness. 3. Coat chicken in breadcrumbs mixed with grated parmesan cheese. 4. Brown chicken in a large skillet over medium-high heat. 5. Top chicken with marinara sauce and mozzarella cheese. 6. Bake in the oven for 10-15 minutes, or until cheese is melted and bubbly. 7. Serve with pasta.",
+                "rating": 4.9,
+                "favorite": false
+            },
+            {
+                "name": "Vegetable Curry",
+                "ingredients": [
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "carrots",
+                    "potatoes",
+                    "cauliflower",
+                    "chickpeas",
+                    "curry powder",
+                    "coconut milk"
+                ],
+                "method": "1. Heat oil in a large pot over medium heat. 2. Add onion, garlic, and ginger and cook until softened. 3. Add diced carrots, potatoes, and cauliflower and cook until slightly softened. 4. Stir in chickpeas and curry powder. 5. Add coconut milk and bring to a simmer. 6. Simmer until vegetables are tender and sauce is thickened. 7. Serve with rice or naan bread.",
+                "rating": 4.3,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "chefId": "c5",
+        "name": "Michael Brown",
+        "recipes": [
+            {
+                "name": "Chicken Fajitas",
+                "ingredients": [
+                    "chicken breasts",
+                    "bell peppers",
+                    "onion",
+                    "taco seasoning",
+                    "flour tortillas"
+                ],
+                "method": "1. Slice chicken, peppers, and onion into thin strips. 2. In a large skillet over medium-high heat, cook chicken until browned. 3. Add peppers and onion and cook until tender. 4. Add taco seasoning and stir to combine. 5. Serve in flour tortillas with guacamole and salsa.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Garlic Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "garlic",
+                    "butter",
+                    "lemon juice",
+                    "parsley"
+                ],
+                "method": "1. Melt butter in a large skillet over medium heat. 2. Add garlic and cook for 1 minute. 3. Add shrimp and cook until pink. 4. Stir in lemon juice and parsley. 5. Serve over rice or with crusty bread.",
+                "rating": 4.7,
+                "favorite": true
+            },
+            {
+                "name": "Roasted Vegetables",
+                "ingredients": [
+                    "zucchini",
+                    "yellow squash",
+                    "red onion",
+                    "bell peppers",
+                    "olive oil"
+                ],
+                "method": "1. Preheat oven to 400°F. 2. Slice vegetables into bite-sized pieces. 3. Toss vegetables with olive oil and season with salt and black pepper. 4. Roast in the oven for 20-25 minutes, or until tender and caramelized. 5. Serve as a side dish or with pasta or rice.",
+                "rating": 4.2,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "chefId": "c6",
+        "name": "Jessica Kim",
+        "recipes": [
+            {
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "beef sirloin",
+                    "onion",
+                    "garlic",
+                    "mushrooms",
+                    "beef broth",
+                    "sour cream",
+                    "egg noodles"
+                ],
+                "method": "1. Cut beef into thin strips. 2. In a large skillet over medium-high heat, brown beef with onions and garlic. 3. Add sliced mushrooms and cook until tender. 4. Pour in beef broth and bring to a simmer. 5. Simmer until sauce is thickened. 6. Stir in sour cream. 7. Cook egg noodles according to package instructions. 8. Serve beef stroganoff over egg noodles.",
+                "rating": 4.8,
+                "favorite": true
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil leaves",
+                    "balsamic glaze",
+                    "olive oil"
+                ],
+                "method": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Arrange tomatoes and cheese on a platter. 3. Top with fresh basil leaves. 4. Drizzle with balsamic glaze and olive oil. 5. Season with salt and black pepper to taste.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "garlic",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package instructions. 2. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. 3. Add minced garlic and cook for 1 minute. 4. Beat eggs in a bowl and stir in grated parmesan cheese. 5. When spaghetti is cooked, drain and add to the skillet with the bacon. 6. Pour egg mixture over spaghetti and stir quickly to combine. 7. The heat from the spaghetti will cook the eggs and create a creamy sauce. 8. Season with black pepper and serve.",
+                "rating": 4.4,
+                "favorite": true
+            }
+        ]
+    }
+]

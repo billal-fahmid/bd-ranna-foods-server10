@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "chefId": "c1",
+      "chefPicture": "https://example.com/chef1.jpg",
+      "chefName": "John Doe",
+      "experience": "10 years",
+      "likes": 500,
+      "recipes": [
+        "Spaghetti Carbonara",
+        "Beef Stroganoff",
+        "Lemon Chicken"
+      ]
+    },
+    {
+      "id": 2,
+      "chefId": "c2",
+      "chefPicture": "https://example.com/chef2.jpg",
+      "chefName": "Jane Smith",
+      "experience": "5 years",
+      "likes": 300,
+      "recipes": [
+        "Fish Tacos",
+        "Pad Thai",
+        "Chicken Parmesan"
+      ]
+    },
+    {
+      "id": 3,
+      "chefId": "c3",
+      "chefPicture": "https://example.com/chef3.jpg",
+      "chefName": "Bob Johnson",
+      "experience": "15 years",
+      "likes": 800,
+      "recipes": [
+        "Grilled Salmon",
+        "Roast Beef",
+        "Mushroom Risotto"
+      ]
+    },
+    {
+      "id": 4,
+      "chefId": "c4",
+      "chefPicture": "https://example.com/chef4.jpg",
+      "chefName": "Sarah Lee",
+      "experience": "8 years",
+      "likes": 400,
+      "recipes": [
+        "Pesto Pasta",
+        "Chicken Tikka Masala",
+        "Beef Bourguignon"
+      ]
+    },
+    {
+      "id": 5,
+      "chefId": "c5",
+      "chefPicture": "https://example.com/chef5.jpg",
+      "chefName": "Michael Brown",
+      "experience": "12 years",
+      "likes": 600,
+      "recipes": [
+        "Cajun Shrimp Pasta",
+        "Beef Wellington",
+        "Lobster Bisque"
+      ]
+    },
+    {
+      "id": 6,
+      "chefId": "c6",
+      "chefPicture": "https://example.com/chef6.jpg",
+      "chefName": "Jessica Kim",
+      "experience": "6 years",
+      "likes": 200,
+      "recipes": [
+        "Korean BBQ Ribs",
+        "Spicy Tuna Roll",
+        "Green Curry"
+      ]
+    }
+  ]
+  
