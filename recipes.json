@@ -2,6 +2,10 @@
     {
         "chefId": "c1",
         "name": "John Doe",
+        "chefPicture": "https://i.ibb.co/bJXDLJ4/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall.jpg",
+        "description": "Hearty pasta and beef in a zesty tomato sauce.",
+        "likes": 500,
+        "experience": "10 years",
         "recipes": [
             {
                 "name": "Beef Wellington",
@@ -46,7 +50,11 @@
     },
     {
         "chefId": "c2",
-        "name": "Jane Smith",
+        "chefPicture": "https://i.ibb.co/X7Z3n5W/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery.jpg",
+        "chefName": "Jane Smith",
+        "experience": "5 years",
+        "description": "Hearty pasta and beef in a zesty tomato sauce.",
+        "likes": 300,
         "recipes": [
             {
                 "name": "Grilled Salmon",
@@ -91,7 +99,11 @@
     },
     {
         "chefId": "c3",
-        "name": "Bob Johnson",
+        "chefPicture": "https://i.ibb.co/FKZjZYB/mid-shot-chef-holding-plate-with-pasta-making-ok-sign.jpg",
+        "chefName": "Bob Johnson",
+        "experience": "15 years",
+        "description": "Hearty pasta and beef in a zesty tomato sauce.",
+        "likes": 800,
         "recipes": [
             {
                 "name": "Roasted Brussels Sprouts",
@@ -140,7 +152,11 @@
     },
     {
         "chefId": "c4",
-        "name": "Sarah Lee",
+        "chefPicture": "https://i.ibb.co/Bq519Ht/portrait-positive-smiling-head-chef-standing-professional-restaurant-kitchen-while-looking-camera-co.jpg",
+        "chefName": "Sarah Lee",
+        "experience": "8 years",
+        "description": "Hearty pasta and beef in a zesty tomato sauce.",
+        "likes": 400,
         "recipes": [
             {
                 "name": "Beet and Goat Cheese Salad",
@@ -188,7 +204,11 @@
     },
     {
         "chefId": "c5",
-        "name": "Michael Brown",
+        "chefPicture": "https://i.ibb.co/4p179MZ/male-cook-standing-kitchen-presenting-delicious-dish.jpg",
+        "chefName": "Michael Brown",
+        "experience": "12 years",
+        "description": "Hearty pasta and beef in a zesty tomato sauce.",
+        "likes": 600,
         "recipes": [
             {
                 "name": "Chicken Fajitas",
@@ -233,7 +253,11 @@
     },
     {
         "chefId": "c6",
-        "name": "Jessica Kim",
+        "chefPicture": "https://i.ibb.co/Nyg39Y4/studio-portrait-cook-man-with-fresh-vegetables-table.jpg",
+        "chefName": "Jessica Kim",
+        "experience": "6 years",
+        "description": "Hearty pasta and beef in a zesty tomato sauce.",
+        "likes": 200,
         "recipes": [
             {
                 "name": "Beef Stroganoff",
