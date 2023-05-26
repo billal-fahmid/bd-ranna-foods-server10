@@ -8,6 +8,7 @@ app.use(cors())
 
 const chefs = require('./chefs.json')
 const recipes = require('./recipes.json')
+const foods = require('./foods.json')
 
 app.get('/chefs', (req,res)=>{
     res.send(chefs);
@@ -28,8 +29,11 @@ app.get('/recipes', (req, res) =>{
 app.get('/recipes/:id' , (req,res) =>{
     const id = req.params.id;
     const chefRecipes = recipes.filter(recipe => recipe.chefId == id);
-    // console.log(chefRecipes)
     res.send(chefRecipes)
+})
+
+app.get('/foods' ,(req,res)=>{
+    res.send(foods)
 })
 
 

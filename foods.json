@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "foodName": "Cheeseburger",
+      "foodPhoto": "https://i.ibb.co/k142kHz/01.jpg",
+      "cookTime": "10 minutes",
+      "serves": 1,
+      "price": 5.99
+    },
+    {
+      "id": 2,
+      "foodName": "Margherita Pizza",
+      "foodPhoto": "https://i.ibb.co/28jVr8Q/02.jpg",
+      "cookTime": "20 minutes",
+      "serves": 2,
+      "price": 10.99
+    },
+    {
+      "id": 3,
+      "foodName": "Caesar Salad",
+      "foodPhoto": "https://i.ibb.co/cch3SMq/03.png",
+      "cookTime": "5 minutes",
+      "serves": 1,
+      "price": 7.99
+    },
+    {
+      "id": 4,
+      "foodName": "Chicken Fajitas",
+      "foodPhoto": "https://i.ibb.co/dMfMsgr/top-view-delicious-trout-meal.jpg",
+      "cookTime": "30 minutes",
+      "serves": 4,
+      "price": 15.99
+    },
+    {
+      "id": 5,
+      "foodName": "Pesto Pasta",
+      "foodPhoto": "https://i.ibb.co/xhxmNQc/pasta-spaghetti-with-shrimps-sauce.jpg",
+      "cookTime": "15 minutes",
+      "serves": 2,
+      "price": 8.99
+    },
+    {
+      "id": 6,
+      "foodName": "Chocolate Brownie",
+      "foodPhoto": "https://i.ibb.co/3Bg3Ts2/front-view-tasty-meat-burger-with-cheese-salad-dark-background.jpg",
+      "cookTime": "30 minutes",
+      "serves": 4,
+      "price": 12.99
+    }
+  ]
+ 
